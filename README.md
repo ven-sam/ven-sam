@@ -1,4 +1,3 @@
-#https://github.com/L1cardo/L1cardo
 
 ### My GitHub Contributions
 
